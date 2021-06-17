@@ -1,0 +1,6 @@
+numpy
+scipy
+scikit-image
+requests
+elasticsearch==5.0.0
+

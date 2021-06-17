@@ -1,0 +1,33 @@
+{
+    "config": {
+        "chainId": 2757,
+        "homesteadBlock": 0,
+        "eip150Block": 0,
+        "eip155Block": 0,
+        "eip158Block": 0,
+        "byzantiumBlock": 0,
+        "constantinopleBlock": 0,
+        "petersburgBlock": 0,
+        "istanbulBlock": 0,
+        "muirGlacierBlock": 0
+    },
+    "difficulty": "0",
+    "gasLimit": "1000000000",
+    "alloc": {
+        "0xc969eb8c7b3bca558793718b04e7e6d1b1b9a2b8": {
+            "balance": "100000000000000000000000"
+        },
+        "0x85c11bcbf2fc6552388a91bf5cd04642b9c9257b": {
+            "balance": "100000000000000000000000"
+        },
+        "0x3a7d503310ae26c9c7540e67f5bfb018e1cd6d92": {
+            "balance": "100000000000000000000000"
+        },
+        "0xf6bab8d033798b85f0ac5755e58ac90d6f280fa9": {
+            "balance": "100000000000000000000000"
+        },
+        "0x9349ffb4748685cb5725496061181b7fdc1bdae8": {
+            "balance": "100000000000000000000000"
+        }
+    }
+}

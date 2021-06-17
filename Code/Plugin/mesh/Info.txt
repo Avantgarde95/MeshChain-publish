@@ -1,0 +1,63 @@
+D:\Projects\BC3D\MeshChain\Plugin\mesh>py -3 ModelInfo.py Cube1.obj
+- Vertices: 8
+- Triangles: 12
+- Size (.obj): 0.000323MB
+
+D:\Projects\BC3D\MeshChain\Plugin\mesh>py -3 ModelInfo.py Cylinder.obj
+- Vertices: 456
+- Triangles: 880
+- Size (.obj): 0.024429MB
+
+D:\Projects\BC3D\MeshChain\Plugin\mesh>py -3 ModelInfo.py Table.obj
+- Vertices: 3801
+- Triangles: 1267
+- Size (.obj): 0.127563MB
+
+D:\Projects\BC3D\MeshChain\Plugin\mesh>py -3 ModelInfo.py Helicopter.obj
+- Vertices: 25467
+- Triangles: 46703
+- Size (.obj): 1.559453MB
+
+D:\Projects\BC3D\MeshChain\Plugin\mesh>py -3 ModelInfo.py House.obj
+- Vertices: 224462
+- Triangles: 427647
+- Size (.obj): 16.541578MB
+
+===============================================
+
+D:\Projects\BC3D\MeshChain\Plugin\mesh>py -3 ModelInfo.py Bunny0.obj
+- Vertices: 34834
+- Triangles: 69451
+- Size (.obj): 2.261946MB
+
+D:\Projects\BC3D\MeshChain\Plugin\mesh>py -3 ModelInfo.py Bunny5000.obj
+- Vertices: 37939
+- Triangles: 69451
+- Size (.obj): 2.369527MB
+
+D:\Projects\BC3D\MeshChain\Plugin\mesh>py -3 ModelInfo.py Bunny10000.obj
+- Vertices: 40840
+- Triangles: 69451
+- Size (.obj): 2.458110MB
+
+D:\Projects\BC3D\MeshChain\Plugin\mesh>py -3 ModelInfo.py Bunny15000.obj
+- Vertices: 43712
+- Triangles: 69451
+- Size (.obj): 2.540388MB
+
+D:\Projects\BC3D\MeshChain\Plugin\mesh>py -3 ModelInfo.py Bunny20000.obj
+- Vertices: 46738
+- Triangles: 69451
+- Size (.obj): 2.626440MB
+
+===============================================
+
+D:\Projects\BC3D\MeshChain\Plugin\mesh>py -3 ModelInfo.py Hat.obj
+- Vertices: 9026
+- Triangles: 18048
+- Size (.obj): 0.549683MB
+
+D:\Projects\BC3D\MeshChain\Plugin\mesh>py -3 ModelInfo.py Bunny65000.obj
+- Vertices: 73402
+- Triangles: 69451
+- Size (.obj): 3.399819MB

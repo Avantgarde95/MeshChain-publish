@@ -1,0 +1,13 @@
+{
+    "devDependencies": {
+        "web3": "^1.2.6",
+        "truffle": "^5.1.19",
+        "@truffle/hdwallet-provider": "^1.0.33"
+    },
+    "scripts": {
+        "compile": "truffle compile",
+        "migrateGanache": "truffle migrate --reset --network ganache",
+        "migrateGeth": "truffle migrate --reset --network geth",
+        "migrateInfura": "truffle migrate --reset --network infura"
+    }
+}

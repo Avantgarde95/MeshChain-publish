@@ -1,0 +1,20 @@
+{
+    "toolURI": {
+        "host": "127.0.0.1",
+        "port": 8889
+    },
+    "blockchainURI": {
+        "scheme": "ws",
+        "host": "127.0.0.1",
+        "port": 8546
+    },
+    "storageURI": {
+        "scheme": "http",
+        "host": "127.0.0.1",
+        "port": 8500,
+        "path": "bzz:/"
+    },
+    "contractAddress": "0x7201213fb5385FC50A1698726Ee8B34b2ebDB867",
+    "userAddress": "0xc969eb8c7b3bca558793718b04e7e6d1b1b9a2b8",
+    "userPassword": "bc3d"
+}
